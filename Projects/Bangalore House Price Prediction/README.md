@@ -45,6 +45,11 @@ This project predicts house prices in Bangalore based on various input parameter
 - **`app.js`**: JavaScript for handling user interactions and communicating with the server.
 
 ---
+## Model Output
+
+![Model Output](assets/images/bhpp_ss.png)
+
+
 
 ## About
 The **Bangalore House Price Prediction Project** applies machine learning to predict house prices based on user input parameters. It demonstrates a complete pipeline from model development to deployment, offering an intuitive interface for predictions.
